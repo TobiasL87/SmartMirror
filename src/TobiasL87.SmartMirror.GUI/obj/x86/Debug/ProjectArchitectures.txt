@@ -1,0 +1,1 @@
+F:\GitHub\SmartMirror\src\TobiasL87.SmartMirror.GUI\TobiasL87.SmartMirror.GUI.csproj;x86
